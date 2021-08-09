@@ -1,8 +1,11 @@
-<div align="center">
 
 # react-invite-app
 
-</div>
 Author: Yifan Yang
-npm install
-npm run start
+
+执行方式： 
+
+- 下载依赖：npm install
+- 本地运行：npm run start
+- 打包：npm run build
+
